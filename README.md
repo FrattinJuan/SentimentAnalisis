@@ -1,0 +1,2 @@
+# SentimentAnalisis
+A practical work
